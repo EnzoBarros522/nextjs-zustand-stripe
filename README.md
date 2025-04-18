@@ -15,9 +15,7 @@ eCommorce Website | Nextjs, Zustand, Next-intl, Stripe.
 
   <br> 
 
-## :link: Demo
-  - <a target="_blank" href="https://react-zustand-coffeshop.netlify.app/"> Netflify </a> to see and examine by yourself a demo of the site.
-  
+
 <br> 
 
   ## 💬 Project Innovations/Advantages
