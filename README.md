@@ -13,10 +13,6 @@ eCommorce Website | Nextjs, Zustand, Next-intl, Stripe.
 
 - Designing a sales site and adding a payment screen while implementing <b>Zustand</b> operating logic and status management.
 
-  <br> 
-
-
-<br> 
 
   ## 💬 Project Innovations/Advantages
 
